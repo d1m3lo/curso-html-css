@@ -1,0 +1,16 @@
+Utilizar a tag <address> para destacar algo.
+
+Ao querer deixar as palavras em negrito(bold)/destaque usar a tag <strong>.
+
+Ao querer deixar as palavras em itálico para dar ênfase usaremos a tag <em>.
+
+Usar a tag <mark> quando eu quiser demarcar algo em algum texto.
+
+Tag <big> morreu, mas a <small> ainda é utilizável.
+
+Usar o <del> para queo texto que está ali,pode até ser lido, mas deve ser desconsiderado pelo leitor.
+
+Usar a tag <ins> para sublinhar texto. 
+
+Usar as tags <sub> e <sup> para representar exemplos como X^2 e H2O
+

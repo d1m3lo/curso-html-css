@@ -1,0 +1,38 @@
+Para criar um hyperlink usamos a tag <a> que significa âncora. E o principal atributo dessa tag é o href, que cria um referência hipertexto.
+
+Outro atributo bem útil da tag de âncora é o hreflang, que permite indicar qual é o
+idioma principal do site para onde o link está desviando o fluxo de navegação. Isso vai
+permitir avisar ao navegador e a softwares de tradução como lidar caso o visitante
+opte por traduzir automaticamente os conteúdos. 
+
+Para poder controlar onde o site de destino vai abrir, podemos usar o atributo target,
+que suporta os seguintes valores:
+‣ _blank vai abrir o link em uma nova janela em branco
+‣ _self vai abrir o link na janela ou frame atual (padrão)
+‣ _top vai desfazer todos os frames e abrir o destino no navegador completo
+‣ _parent similar ao uso do _top em uma referência à janela mãe
+‣ nome-do-frame caso esteja usando frames, indicar o nome da janela a abrir 
+
+
+Existe um recurso bem interessante para links que é indicar qual é a
+natureza do destino usando o atributo rel. Esse atributo aceita vários
+valores, entre eles vou citar:
+‣next indica que o link é para a próxima parte do documento atual
+‣prev indica que o link é para a parte anterior do documento atual
+‣author indica que é um link para o site do autor do artigo atual
+‣external indica que é um link para outro site que não faz parte do site atual
+‣ nofollow indica que é um link para um site não endossado, como um link pago
+
+Aqui vão alguns media types bem usados no nosso dia-a-dia:
+‣ application/zip
+‣ text/html
+‣ text/css
+‣ text/javascript
+‣ video/mp4
+‣ video/H264
+‣ video/JPEG
+‣ audio/aac
+‣ audio/mpeg
+‣ font/ttf
+‣ image/jpeg
+‣ image/png  

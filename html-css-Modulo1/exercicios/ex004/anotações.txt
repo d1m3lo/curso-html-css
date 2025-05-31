@@ -1,0 +1,17 @@
+Site: favicon.io
+
+código: link:favicon
+
+
+sites para pegar imagens sem direitos autorais: • UnSplash 
+• Pexels 
+• FreePik 
+• Rawpixel 
+• Pixabay 
+• Libreshot 
+• Wikimedia Commons 
+
+Obs:Lembrar de usar a filtração do google, usar o Gimp para redimensionar o tamanho das imagens também.
+
+usar: "img" para gerar o código e o atalho "control + espaço" para localizar arquivos
+

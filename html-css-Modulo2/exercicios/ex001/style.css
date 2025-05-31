@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+main{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #1309058a;
+    width: 600px;
+    padding: 10px;
+    margin:auto;
+    
+    
+}
+body{
+background-image: linear-gradient(to right,#3F111B, #8C3B3B);
+}
+h1{
+color: #221109;
+text-align: center;
+text-shadow: 1px 1px 2px #160b06b4;;
+}
+
+h2{
+    color: #36420F;
+
+}
+
+p{
+    text-align: justify;
+}
+
+ <footer> Site idealizado por <strong>Gustavo Guanabara</strong> feito por <strong>d1męlœ</strong> para o <strong>CursoemVídeo</strong>  </footer> 

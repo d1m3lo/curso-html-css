@@ -1,0 +1,3 @@
+emojipedia.org
+
+usar emotes: &#X + código do emote

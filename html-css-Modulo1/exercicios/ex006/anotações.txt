@@ -1,0 +1,4 @@
+Os níveis de título vão de: h1 até h6
+
+usar o comando "lorem" dentro dos paragrafos para gerar textos de teste.
+

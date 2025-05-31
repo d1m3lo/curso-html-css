@@ -1,0 +1,9 @@
+<pre> = deixar o código em sua formatação
+
+<code>  =deixar em formato de código
+
+<q> (quote) = para usar em citações
+
+<abbr> = para abreviações
+
+<bdo> rtl = para deixar os textos invertidos

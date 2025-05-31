@@ -1,0 +1,3 @@
+Para mudar o fundo da página usar style = "background-color: ;", dentro do body
+
+Ja para mudar apenas as palavras usar style="color: ;", dentro da tag que você quer mudar a cor

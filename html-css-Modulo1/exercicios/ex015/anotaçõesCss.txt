@@ -1,0 +1,1 @@
+Posso usar os 3 estilos de css dentro de um mesmo arquivo tanto o inline, interno e externo
