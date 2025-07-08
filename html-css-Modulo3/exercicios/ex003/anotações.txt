@@ -1,1 +1,5 @@
-Tamanho padrão do iframe 300x150
+Tamanho padrão do iframe 300x150.
+
+As CSS são superiores quando o assunto é iframe.
+
+Para usar página dentro de um iframe a tag <name> usada no iframe, deve ter o mesmo nome quando usada dentro da tag <target>.
