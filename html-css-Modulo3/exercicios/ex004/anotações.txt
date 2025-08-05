@@ -1,0 +1,17 @@
+Para desativar o autocomplete, basta ir na tag <form> e dentro dela escrever autocomplete="off".
+
+Ao usar a tag <label for=""> dentro do for, sempre colocar o id.
+
+Label usado para relacionar objeto de formulário e sua etiqueta, demonstrando a relação de ambos.
+
+O metódo padrão dos formulários é o "GET". Ao enviar dados usando "GET" o máximo de dados possiveis a serem enviados é de  3mil bites (3 mil letras).
+
+HTTPS para proteção de dados.
+
+O post suporta mais de 3mil bites.
+
+input do type="password", não mostra a senha.
+
+type "submit" usado para criar botões de enviar.
+
+type "reset" usado para limpar os dados dos campos.
