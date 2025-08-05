@@ -15,3 +15,5 @@ input do type="password", não mostra a senha.
 type "submit" usado para criar botões de enviar.
 
 type "reset" usado para limpar os dados dos campos.
+
+Estudar mais sobre RegEx ( regular expression)
