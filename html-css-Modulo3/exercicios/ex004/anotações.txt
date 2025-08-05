@@ -16,4 +16,6 @@ type "submit" usado para criar botões de enviar.
 
 type "reset" usado para limpar os dados dos campos.
 
-Estudar mais sobre RegEx ( regular expression)
+Estudar mais sobre RegEx ( regular expression).
+
+ Botões de Radio usado para quando você quer selecionar somente uma opção, e os botões checkbox usados para mais de uma opção.
