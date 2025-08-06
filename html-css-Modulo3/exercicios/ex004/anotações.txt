@@ -19,3 +19,8 @@ type "reset" usado para limpar os dados dos campos.
 Estudar mais sobre RegEx ( regular expression).
 
  Botões de Radio usado para quando você quer selecionar somente uma opção, e os botões checkbox usados para mais de uma opção.
+
+ Ao usar o envio de arquivos não se deve usar o metódo get e sim o metódo post.
+
+
+ Ao se usar output para fazer contas em formulários, o resultado será transmitido somente visualmente na página, ao enviar o url não conterá a soma e sim os valores propostos.
