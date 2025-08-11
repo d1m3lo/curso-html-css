@@ -1,0 +1,1 @@
+Ao usar media eu posso informar, media type e media features, e os medias features nós usamos os "()".
