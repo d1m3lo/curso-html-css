@@ -1,0 +1,13 @@
+----------------------------------
+Essa cfg é usada quando estamos usando flex-direction= column;
+
+main-axis = (de cima para baixo, de forma vertical.)
+
+cross-axis = (por cima, esquerda para direita.)
+
+
+flex-direction = column-reverse;
+
+main-axis = (de baixo para cima, na vertical.)
+
+cross-axis: (deitado, da esquerda para direita)

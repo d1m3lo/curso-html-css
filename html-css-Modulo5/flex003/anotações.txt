@@ -1,0 +1,8 @@
+----------------------------------
+Ainda falando do container, agora iremos introduzir o flex-wrap.
+
+flex-wrap: padrão = nowrap;
+
+flex-wrap: wrap; (a quebra do wrap ocorre sempre no eixo tranversal, fazendo com que o item siga o rumo do cross-axis, para baixo.)
+
+flex-wrap: wrap-reverse; (quando ele diminuir, irá ocorrer a quebra mas ao sentido oposto, fazendo com que os itens sigam o cross-axis, para cima.)
