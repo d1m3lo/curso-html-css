@@ -1,0 +1,41 @@
+ O pai no caso flex-container que recebe a cfg de display: flex;
+
+
+ flex-direction: padrão = row (deitada, da esquerda para direita.)
+
+ row-reverse (da direita para esquerda.)
+
+column (forma de coluna, de cima para baixo.)
+
+column-reverse (forma de coluna, de baixo para cima.)
+
+
+
+----------------------------------
+Essa cfg é usada quando estamos utilizando o flex-direction: row;
+
+
+Eixo principal = main-axis (ele gera 2 pontos: main-start, main-end; são usados da esquerda para direita,)
+
+Eixo transversal = cross-axis ( ele gera 2 pontos: cross-start, cross-end; de cima para baixo)
+
+
+
+Ao usarmos o flex-direction: row-reverse; as conigurações são invertidas, o main-axis = (da direita para esquerda), já o cross-axis não há alteração continua (de cima para baixo).
+
+
+----------------------------------
+Essa cfg é usada quando estamos usando flex-direction= column;
+
+main-axis = (de cima para baixo, de forma vertical.)
+
+cross-axis = (por cima, esquerda para direita.)
+
+
+flex-direction = column-reverse;
+
+main-axis = (de baixo para cima, na vertical.)
+
+cross-axis: (deitado, da esquerda para direita)
+
+
