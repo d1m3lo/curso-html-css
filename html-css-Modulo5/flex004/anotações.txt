@@ -1,0 +1,19 @@
+justify-content: flex-start; (primeiro item fica colado no main-start, o espaço em branco será jogado para o final do eixo principal o main-end)
+
+justify-content: flex-end (o último item vai ser grudado no main-end, e o espaço em branco ficara condensado no main-start)
+
+justify-content: center; (os itens ficaram alinhados no centro do container, os espaçõs em branco serão distribuidos de forma igual.)
+
+justify-content: space-between; (primeiro elemento ficará no main-start e o ultimo no main-end, o resto será distribuido por igual.)
+
+justify-content: space-evenly; ( colocara espaçamento igual entre os itens, antes e depois)
+
+justify-content: space-around; (dividir os espaços em 3 igual, e dividir os itens entre eles)
+
+align-items:stretch; (estica o item no sentido do cross-axis)
+
+align-items:flex-start; (coloca os itens na parte do flex-start)
+
+align-items: flex-end (coloca os intens na parte do flex-end)
+
+align-items: center; (centraliza os itens)
