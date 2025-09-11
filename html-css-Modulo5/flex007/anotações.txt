@@ -1,0 +1,1 @@
+ align-self -> funciona baseado no cross-axis
