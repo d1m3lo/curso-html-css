@@ -1,0 +1,26 @@
+justify content vai alinhar os itens dentro do eixo principal.
+
+align-items vai alinhar os itens dentro do eixo tranversal.
+
+
+align-content alinha os elementos no eixo tranversal mas quando eles estão empacotados.
+
+
+
+---------- Valores ----------
+
+
+align-content: strech; -> valor padrão
+
+align-content: flex-start; -> gruda os elementos no cross start (região de cima)
+
+align-content: flex-end; -> gruda os elementos no cross end (região de baixo)
+
+align-content: center; -> itens são alinhados ao centro do cross axis
+
+align-content: space-between; -> pega os primeiros elementos e colocar perto do cross start e os últimos elementos perto do cross end e o espaço ao meio com outros itens que venham a existir.
+
+align-content: space-evenly; -> coloca um espaço no cross start,cross end e dentre os elementos.
+
+
+align-content: space-around; -> divide o eixo tranversal em partes iguais, e coloca os intens dentro das areas demarcadas e centralizando eles.
