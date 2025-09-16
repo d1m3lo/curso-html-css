@@ -1,0 +1,8 @@
+Essa propriedade se aplica aos itens.
+
+Ordem "Flex":
+
+"flex: 0 (primeiro:flex-grow) 1(segundo:flex-shrink) 150px(flex-basis);"
+
+"grow - shrink - basis."
+
