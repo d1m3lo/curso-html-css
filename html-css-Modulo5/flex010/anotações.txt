@@ -1,0 +1,14 @@
+flex-grow e flex-shrink é só nos itens.
+
+grow é o quanto pode crescer e shrink e o quanto pode encolher.
+
+Padrão:
+"
+flex-shrink: 1;
+
+flex-gro: 0;
+
+"
+
+
+ Se quiser que os elementos possua elasticidade deve se usar "flex-shrink: 1;" e "flex-grow: 1;"
