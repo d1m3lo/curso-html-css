@@ -1,0 +1,5 @@
+O flex-basis tem como padrão o "auto".
+
+o flex-basis é uma propriedade de item.
+
+
