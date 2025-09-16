@@ -11,4 +11,6 @@ flex-gro: 0;
 "
 
 
- Se quiser que os elementos possua elasticidade deve se usar "flex-shrink: 1;" e "flex-grow: 1;"
+ Se quiser que os elementos possua elasticidade deve se usar "flex-shrink: 1;" e "flex-grow: 1;".
+
+ "flex-grow: 1;" funciona no ao usar "wrap" também a diferença que irá ocorrer a quebra e vai ocorrer o preenchimento do container
