@@ -6,3 +6,17 @@ Ordem "Flex":
 
 "grow - shrink - basis."
 
+cfg padrão do "flex"
+
+1 - "flex: 0 1 auto; = flex: initial;" 
+initial = valores iniciais ( padrões)
+
+2 - "flex: 0 0 auto; = flex: none;" none = nada flexível
+
+3 - "flex: 1 1 auto = flex: auto;"
+
+auto = caixa mega flexível com max e min de flexibilidade
+
+4 - "flex: 3 = flex: 3 1 auto;" =  grow é 3
+
+
